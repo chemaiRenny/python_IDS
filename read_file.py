@@ -14,5 +14,3 @@ def read(filename):
 
     return l, ruleErrorCount
 
-
-
