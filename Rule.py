@@ -268,3 +268,4 @@ class Rule:
 
         msg += "By packet :\n" + matchedPacketString(pkt, self) + "\n"
         return msg
+
