@@ -86,4 +86,4 @@ else:
         emptystring=packet_string.unmatched(4,content)
         with open(file,'w') as f:
             f.write(emptystring)
-        
+
