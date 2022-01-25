@@ -64,3 +64,4 @@ def matchedIpString(ip, rule):
     if (ip.ihl > 5):
         out += "\t Options : " + str(ip.options) + "\n"
     return out
+
