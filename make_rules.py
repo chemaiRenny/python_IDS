@@ -30,3 +30,4 @@ def makeRules():
 if __name__ == "__main__":
     makeRules()
     print("File saved to default_rules.txt")
+
