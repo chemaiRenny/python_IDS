@@ -106,4 +106,5 @@ def isHTTP(pkt):
             return False
     else:
         return False
-files=["main.py","sniff.py","login.py","client.py","ip_string.py",'make_rules.py','packet_string.py','read_file.py','Rule.py','server.py','syntax_check.py','TCP_UDPstring.py'] 
+files=["main.py","sniff.py","login.py","client.py","ip_string.py",'make_rules.py','packet_string.py','read_file.py','Rule.py','server.py','syntax_check.py','TCP_UDPstring.py']
+
