@@ -43,5 +43,3 @@ class Sniffer():
         sniff(prn=self.inPacket, filter="", store=0, stop_filter=self.stopfilter)
         print ("Done sniffing packets")
 
-
-
